@@ -95,6 +95,14 @@ logs/trading.log
 * Binance Futures Testnet account is active.
 * API credentials are valid.
 * Internet connection is available.
+## Screenshots
+
+See the screenshots folder for:
+- Market Order Success
+- Limit Order Success
+- Validation Example
+- Logging Output
+- Project Structure
 
 ## Author
 
